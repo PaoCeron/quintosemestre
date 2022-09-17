@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(53, 53, 53);
+}
+
+#div1 {
+  width: 650px;
+  height: 700px;
+  background-color: #62306d;
+}
+
+#div2 {
+  width: 150px;
+  height: 150px;
+  background-color: #f7ec7d;
+  position: absolute;
+  top: 350px;
+  left: 100px;
+  border-radius: 0% 0% 50% 50%;
+}
+
+#div3 {
+  width: 150px;
+  height: 150px;
+  background-color: #f7ec7d;
+  position: absolute;
+  top: 200px;
+  left: 250px;
+  border-radius: 50% 50% 0% 0%;
+}
+
+#div4 {
+  width: 150px;
+  height: 150px;
+  background-color: #f7ec7d;
+  position: absolute;
+  top: 350px;
+  left: 400px;
+  border-radius: 0% 0% 50% 50%;
+}
